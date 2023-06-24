@@ -12,3 +12,8 @@ An AI player for the game [Teeko](https://en.wikipedia.org/wiki/Teeko) with a wi
 * NumPy Library
 * Linux OS
   
+# Resources:
+
+UW-Madison's CS540 - Intro to AI
+https://en.wikipedia.org/wiki/Teeko
+https://en.wikipedia.org/wiki/Minimax
